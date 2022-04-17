@@ -1,0 +1,6 @@
+body {
+  background-image: url("./images/We_Meet_Web_Background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "we_meet",
+  "version": "1.0.0",
+  "description": "Video Calling Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subhadip, Subhadeep, Sayani, Susmita, Spandan & Snigdha",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "simple-peer": "^9.11.1",
+    "socket.io": "^4.4.1",
+    }
+}
